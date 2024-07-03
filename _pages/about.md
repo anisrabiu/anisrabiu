@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr Anis Rabiu"
+title: "Dr Anis RABIU"
 author_profile: true
 redirect_from: 
   - /about/
