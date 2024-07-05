@@ -7,7 +7,7 @@ date: 2021-04-24
 venue: 'Journal of Agricultural Engineering 2021; volume LII:1177'
 slidesurl: #'http://anisrabiu.github.io/files/slides1.pdf'
 paperurl: 'http://anisrabiu.github.io/files/Paper001.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Your Name, You. (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 
