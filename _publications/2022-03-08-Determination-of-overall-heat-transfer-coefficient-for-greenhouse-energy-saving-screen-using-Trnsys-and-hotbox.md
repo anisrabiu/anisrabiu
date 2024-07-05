@@ -1,7 +1,7 @@
 ---
 title: "Effect of Greenhouse Cladding Materials and Thermal Screen Configuration on Heating Energy and Strawberry (Fragariaananassa var. “Seolhyang”) Yield in Winter"
 collection: publications
-permalink: /publication/2022-03-08-Determination-of-overall-heat-transfer-coefficient-for-greenhouse-energy-saving-screen-using-Trnsys-and-hotbox
+permalink: /publication/2022-03-08-Determination-of-overall-heat-transfer-coefficient-for-greenhouse-energy--saving-screen-using-Trnsys-and-hotbox
 excerpt: ''
 date: 2022-03-08
 venue: 'Biosystems Engineering'
