@@ -1,4 +1,3 @@
-
 ---
 title: "Determination of overall heat transfer coefficient for greenhouse energy-saving screen using Trnsys and hotbox"
 collection: publications
