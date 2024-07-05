@@ -2,7 +2,7 @@
 title: "Determination of overall heat transfer coefficient for greenhouse energy-saving screen using Trnsys and hotbox"
 collection: publications
 permalink: /publication/2022-03-08-Determination-of-overall-heat-transfer-coefficient-for-greenhouse-energy--saving-screen-using-Trnsys-and-hotbox
-excerpt: 'The high energy consumption in the greenhouse during the winter season necessitates the development of various thermal screens for energy-saving purposes. However, there is limited data on the precise properties of thermal screens, while little research has investigated a methodological approach for measuring the screen's energy-saving capacity for.'
+excerpt: 'The high energy consumption in the greenhouse during the winter season necessitates the development of various thermal screens for energy saving purposes. However, there is limited data on the precise properties of thermal screens, while little research has investigated a methodological approach for measuring the screen's energy-saving capacity for.'
 date: 2022-03-08
 venue: 'Biosystems Engineering'
 slidesurl: #'http://anisrabiu.github.io/files/slides2.pdf'
